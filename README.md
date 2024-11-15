@@ -1,4 +1,4 @@
-```markdown
+
 # Jogo Fitche Fatche 
 
 Este é um projeto de Jogo da Velha desenvolvido com React e Taiwindcss.
@@ -66,4 +66,3 @@ Sinta-se à vontade para contribuir com sugestões ou melhorias!
 ## Licença
 
 Este projeto é de código aberto e está licenciado sob a licença MIT.
-```
